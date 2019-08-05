@@ -9,4 +9,4 @@ hooks:
       timeout: 300
   After Install:
     - location: start.sh
-      timeout: 300	
+      timeout: 300
